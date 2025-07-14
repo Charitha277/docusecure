@@ -1,0 +1,15 @@
+.tab-btn {
+  padding: 0.5rem 1rem;
+  background: #1f2937;
+  border-radius: 9999px;
+  transition: 0.3s;
+}
+
+.tab-btn:hover {
+  background: #374151;
+}
+
+.active-tab {
+  background: #2563eb;
+}
+
